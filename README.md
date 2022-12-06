@@ -1,6 +1,6 @@
 
-## Hello, I'm 
+## Hello, I'm Robson Ataíde
 
-- 🔭 I’m currently working in frontend with Angular
-- 🌱 I’m currently learning about micro-frontend
+- 🔭 I’m currently working as fullstack developer with Python and ReactJS
+
 
